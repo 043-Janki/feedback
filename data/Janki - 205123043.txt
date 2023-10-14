@@ -1,0 +1,4 @@
+Hello!!
+This is Janki, have attended today's workshop of OSOC.
+It was a very useful workshop, where we learnt a lot about Git and GitHub.
+Thank You!!
